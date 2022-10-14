@@ -1,1 +1,6 @@
 /node_modules
+tsconfig.json
+tslint.json
+package.json
+package-lock.json
+jest.config.ts
